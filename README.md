@@ -1,5 +1,5 @@
 # **Cloakk**
-## **Stealth AMSI Bypass and Encrypted PowerShell Executor**
+# **Stealth AMSI Bypass and Encrypted PowerShell Executor**
 
 ## 🚀 Overview
 This tool demonstrates advanced red team tradecraft for stealthy AMSI bypass and fileless PowerShell execution. Designed for penetration testers and security researchers, it leverages modern evasion techniques to bypass endpoint protections and execute encrypted payloads directly in memory.
