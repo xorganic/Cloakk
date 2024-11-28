@@ -42,12 +42,12 @@ cd stealth-amsi-bypass
 ```
 
 ### Compile the Code:
-Open the project in Visual Studio and build in Release mode.
-On linux: 
+- Open the project in Visual Studio and build in Release mode.
+- Using GCC from MinGW-w64, run the following command to compile the code into a Windows executable:
 ```bash
 x86_64-w64-mingw32-gcc -o Cloakk.exe Cloakk.c -lmscoree -lkernel32 -luser32 -ladvapi32
 ```
-Execute the Binary:
+### Execute the Binary:
 ```bash
 Cloakk.exe
 ```
