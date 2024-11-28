@@ -2,7 +2,7 @@
 # **Stealth AMSI Bypass and Encrypted PowerShell Executor**
 
 ## 🚀 Overview
-This tool demonstrates advanced red team tradecraft for stealthy AMSI bypass and fileless PowerShell execution. Designed for penetration testers and security researchers, it leverages modern evasion techniques to bypass endpoint protections and execute encrypted payloads directly in memory.
+This tool demonstrates red team tradecraft for stealthy AMSI bypass and fileless PowerShell execution. Designed for penetration testers and security researchers, it leverages modern evasion techniques to bypass endpoint protections and execute encrypted payloads directly in memory.
 
 The tool is highly modular, making it adaptable for a variety of environments, and incorporates the latest methodologies for operational security (OpSec) in 2025 and beyond.
 
