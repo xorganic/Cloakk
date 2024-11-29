@@ -4,7 +4,7 @@
 ## 🚀 Overview
 This tool demonstrates red team tradecraft for stealthy AMSI bypass and fileless PowerShell execution. Designed for penetration testers and security researchers, it leverages modern evasion techniques to bypass endpoint protections and execute encrypted payloads directly in memory.
 
-The tool is highly modular, making it adaptable for a variety of environments, and incorporates the latest methodologies for operational security (OpSec) in 2025 and beyond.
+
 
 ---
 
@@ -80,7 +80,7 @@ Understand advanced techniques for AMSI evasion and PowerShell obfuscation.
 Blue Team Training:
 Develop detection rules and improve endpoint monitoring strategies.
 ## 📈 Why Share This?
-This tool highlights the importance of staying ahead in cybersecurity. As defenders strengthen their systems, offensive techniques evolve. Sharing knowledge fosters growth and prepares both red and blue teams for the challenges of 2025 and beyond.
+This tool highlights the importance of staying ahead in cybersecurity. As defenders strengthen their systems, offensive techniques evolve. Sharing knowledge fosters growth and prepares both red and blue teams.
 
 ## 🤝 Contribute
 Found an issue? Have suggestions? Feel free to open a pull request or contact me!
